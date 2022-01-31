@@ -1,6 +1,6 @@
 import './App.css';
-import Nav from './components/layout/Nav'
-import Swap from './components/swap/Swap';
+import Nav from './components/Layout/Nav'
+import Home from './components/Home/Home';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <main>
         <div className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
           <div className="px-4 py-6 sm:px-0">
-          <Swap />
+          <Home />
           </div>
         </div>
       </main>

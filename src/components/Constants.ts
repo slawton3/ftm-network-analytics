@@ -1,0 +1,1 @@
+export const BaseURL: string = "https://fantom.api.0x.org"
